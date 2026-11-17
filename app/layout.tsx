@@ -67,10 +67,10 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${dm.variable} ${instrument.variable} h-full antialiased`}
+      className={`${dm.variable} ${instrument.variable}`}
       suppressHydrationWarning
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body>{children}</body>
     </html>
   );
 }
