@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" ><defs>
+<linearGradient id="purple6" x2=".8" y2="1"><stop stop-color="#c59bff"/><stop offset=".5" stop-color="#9454dd"/><stop offset="1" stop-color="#532398"/></linearGradient>
+<linearGradient id="steel6" x2=".9" y2=".7"><stop stop-color="#fff"/><stop offset=".25" stop-color="#c7d3df"/><stop offset=".5" stop-color="#f9fcff"/><stop offset=".7" stop-color="#8c9cac"/><stop offset="1" stop-color="#e8eef6"/></linearGradient>
+<linearGradient id="paper6" x2=".4" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#e7e8f4"/></linearGradient>
+<linearGradient id="blue6" x2=".8" y2="1"><stop stop-color="#78d9ff"/><stop offset="1" stop-color="#3072dc"/></linearGradient>
+<linearGradient id="coral6" x2=".5" y2="1"><stop stop-color="#ffbaaf"/><stop offset="1" stop-color="#ed647e"/></linearGradient>
+</defs><rect x="7" y="12" width="50" height="43" rx="6" fill="#d1c0e7"/><rect x="5" y="8" width="50" height="43" rx="6" fill="url(#paper6)" stroke="#d9d4e3"/><path d="M5 20v-6q0-6 6-6h38q6 0 6 6v6" fill="url(#purple6)"/><g fill="#e3cdfa"><circle cx="12" cy="14" r="1.6"/><circle cx="18" cy="14" r="1.6"/><circle cx="24" cy="14" r="1.6"/></g><rect x="13" y="35" width="7" height="10" rx="2" fill="url(#blue6)"/><rect x="25" y="29" width="7" height="16" rx="2" fill="url(#purple6)"/><rect x="37" y="24" width="7" height="21" rx="2" fill="url(#coral6)"/></svg>

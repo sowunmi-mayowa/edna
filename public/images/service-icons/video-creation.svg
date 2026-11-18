@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" ><defs>
+<linearGradient id="purple0" x2=".8" y2="1"><stop stop-color="#c59bff"/><stop offset=".5" stop-color="#9454dd"/><stop offset="1" stop-color="#532398"/></linearGradient>
+<linearGradient id="steel0" x2=".9" y2=".7"><stop stop-color="#fff"/><stop offset=".25" stop-color="#c7d3df"/><stop offset=".5" stop-color="#f9fcff"/><stop offset=".7" stop-color="#8c9cac"/><stop offset="1" stop-color="#e8eef6"/></linearGradient>
+<linearGradient id="paper0" x2=".4" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#e7e8f4"/></linearGradient>
+<linearGradient id="blue0" x2=".8" y2="1"><stop stop-color="#78d9ff"/><stop offset="1" stop-color="#3072dc"/></linearGradient>
+<linearGradient id="coral0" x2=".5" y2="1"><stop stop-color="#ffbaaf"/><stop offset="1" stop-color="#ed647e"/></linearGradient>
+</defs><rect x="9" y="13" width="47" height="40" rx="13" fill="#4d2387"/><rect x="8" y="9" width="47" height="40" rx="13" fill="url(#purple0)"/><path d="m28 20 15 10-15 10z" fill="#fff"/><path d="M17 14h26" stroke="#ffffff70" stroke-width="2" stroke-linecap="round"/></svg>

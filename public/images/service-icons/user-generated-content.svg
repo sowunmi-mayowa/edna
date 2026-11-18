@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" ><defs>
+<linearGradient id="purple4" x2=".8" y2="1"><stop stop-color="#c59bff"/><stop offset=".5" stop-color="#9454dd"/><stop offset="1" stop-color="#532398"/></linearGradient>
+<linearGradient id="steel4" x2=".9" y2=".7"><stop stop-color="#fff"/><stop offset=".25" stop-color="#c7d3df"/><stop offset=".5" stop-color="#f9fcff"/><stop offset=".7" stop-color="#8c9cac"/><stop offset="1" stop-color="#e8eef6"/></linearGradient>
+<linearGradient id="paper4" x2=".4" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#e7e8f4"/></linearGradient>
+<linearGradient id="blue4" x2=".8" y2="1"><stop stop-color="#78d9ff"/><stop offset="1" stop-color="#3072dc"/></linearGradient>
+<linearGradient id="coral4" x2=".5" y2="1"><stop stop-color="#ffbaaf"/><stop offset="1" stop-color="#ed647e"/></linearGradient>
+</defs><path d="M23 23h28q8 0 8 8v12q0 8-8 8h-2v8l-10-8H23q-8 0-8-8V31q0-8 8-8" fill="url(#blue4)"/><path d="M10 8h28q8 0 8 8v14q0 8-8 8H23L12 47v-9h-2q-7 0-7-8V16q0-8 7-8" fill="url(#purple4)" stroke="#a77ce0"/><g fill="#fff"><circle cx="15" cy="23" r="2.5"/><circle cx="25" cy="23" r="2.5"/><circle cx="35" cy="23" r="2.5"/></g><path d="M12 13h22" stroke="#ffffff55" stroke-width="2" stroke-linecap="round"/></svg>

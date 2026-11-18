@@ -12,8 +12,10 @@ export default function Hero() {
             Edna Osayamen <em>Orumwense.</em>
           </h1>
           <p className="lede hero-motion">
-            I make short-form videos that give people a real feel for student life, explain what a brand offers, and
-            bring products into everyday stories.
+            I create videos, visual content and stories that help brands connect
+            with people. From the first idea to the final edit, I bring
+            products, services and everyday experiences to life through content
+            made for your audience.
           </p>
           <div className="actions hero-motion">
             <a className="button primary" href="#work">
